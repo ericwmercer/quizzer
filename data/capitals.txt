@@ -1,0 +1,50 @@
+South Dakota:SD:Pierre
+Tennessee:TN:Nashville:Knoxville
+Texas:TX:Austin:Dallas
+Utah:UT:Salt Lake City:Ogden
+Georgia:GA:Atlanta:Albany:Columbus:Athens:Macon
+Hawaii:HI:Honolulu:Hilo
+Idaho:ID:Boise
+Illinois:IL:Springfield:Chicago
+Indiana:IN:Indianapolis:Gary:Anderson
+Iowa:IA:Des Moines:Cedar Rapids:Waterloo
+Kansas:KS:Topeka:Lawrence:Manhattan:Hutchinson:Wichita:Salina
+Kentucky:KY:Frankfort:Louisville:Lexington:Henderson:Richmond:Frankfort
+Louisiana:LA:Baton Rouge:New Orleans
+Maine:ME:Augusta:Portland:Auburn
+Maryland:MD:Annapolis:Baltimore
+Massachusetts:MA:Boston
+Michigan:MI:Lansing:Detroit:Flint
+Minnesota:MN:Saint Paul
+Mississippi:MS:Jackson
+Missouri:MO:Jefferson City
+Montana:MT:Helena
+Nebraska:NE:Lincoln
+Nevada:NV:Carson City
+New Hampshire:NH:Concord
+New Jersey:NJ:Trenton
+New Mexico:NM:Santa Fe
+New York:NY:Albany:New York
+North Carolina:NC:Raleigh:Durham:Chapel Hill:Charlotte:Wilmington:Asheville:Asheboro:Fayetteville
+Alabama:AL:Montgomery:Birmingham:Hoover:Mobile:Auburn:Huntsville
+Alaska:AK:Juneau:Anchorage:Kodiak:Fairbanks
+Arizona:AZ:Phoenix:Tucson:Mesa:Yuma:Tempe:Scotsdale
+Arkansas:AR:Little Rock:Fayetteville:Pine Bluff:Hot Springs
+California:CA:Sacramento:Los Angeles:San Francisco:San Diego:Oakland:Albany:Anderson:Concord:Fresno
+Colorado:CO:Denver:Boulder:Fort Collins:Colorado Springs
+Connecticut:CT:Hartford:Greenwich:New Haven:Norwalk
+Delaware:DE:Dover:Wilmington:Newark
+Florida:FL:Tallahassee:Miami:Hollywood:Tampa:Jacksonville
+North Dakota:ND:Bismarck
+Ohio:OH:Columbus:Toledo:Cleveland
+West Virginia:WV:Charleston
+Wisconsin:WI:Madison:Milwaukee:Alma:Ashland:Hayward:Hartford:Juneau:Salem:Wilson
+Oklahoma:OK:Oklahoma City:Tulsa
+Oregon:OR:Salem:Portland
+Pennsylvania:PA:Harrisburg:Pittsburgh
+Rhode Island:RI:Providence
+South Carolina:SC:Columbia:Charleston:Aiken:Spartanburg:Myrtle Beach:Edgefield:Cheraw:Anderson:Gaffney
+Vermont:VT:Montpelier
+Virginia:VA:Richmond:Norfolk
+Washington:WA:Olympia:Seattle
+Wyoming:WY:Cheyenne:Laramie
